@@ -21,3 +21,18 @@ export * from './contracts';
 // Constants
 export * from './constants';
 
+// Stacking/PoX utilities
+export * from './stacking';
+
+// BNS (Blockchain Naming System) utilities
+export * from './bns';
+
+// Transaction builder helpers
+export * from './transaction';
+
+// NFT utilities
+export * from './nft';
+
+// Memo encoder/decoder
+export * from './memo';
+

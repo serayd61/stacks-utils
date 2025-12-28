@@ -13,6 +13,11 @@ A comprehensive utility library for Stacks blockchain development. Built with Ty
 - 📊 **Formatting** - Human-readable formatting for blockchain data
 - 📜 **Contract Utilities** - Work with Clarity smart contracts
 - 📦 **Constants** - Common Stacks blockchain constants
+- ⚡ **Stacking/PoX** - Proof of Transfer cycle calculations and utilities
+- 🔗 **BNS** - Blockchain Naming System name validation and parsing
+- 🔧 **Transaction Helpers** - Post conditions, Clarity values, and more
+- 🖼️ **NFT Utilities** - SIP-009 NFT metadata parsing and marketplace URLs
+- 💬 **Memo Encoding** - Encode/decode transaction memos
 
 ## Installation
 

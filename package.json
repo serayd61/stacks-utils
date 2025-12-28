@@ -1,6 +1,6 @@
 {
   "name": "@serayd61/stacks-utils",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "🛠️ Utility library for Stacks blockchain development - address validation, token formatting, API helpers, and more",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
